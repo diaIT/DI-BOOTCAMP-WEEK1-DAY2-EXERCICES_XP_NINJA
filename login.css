@@ -1,0 +1,74 @@
+
+ th, td {
+    
+    border-collapse: collapse;
+    
+  }
+  .t1{
+    border-spacing: 15px;
+    width: 380px;
+    height: 150px;
+    
+  }
+  .t2{
+    border-spacing: 15px;
+    width: 380px;
+    height: 50px;
+  }
+  .t3{
+    border-spacing: 15px;
+    width: 380px;
+  }
+  .t4{
+  
+    padding-left: 3cm;
+    width: 250px;
+    
+  
+    
+    text-align: right;
+  }
+  .input{
+    width: 99%;
+    height: 1cm;
+    border-radius: 3px;
+    border: 1px solid #f6f9fc;
+  }
+  button{
+    width: 99%;
+    height: 1cm;
+    background-color: #573091;
+     border-color: white;
+     color: white; 
+  }
+  .block1{
+    border: 1px solid #f6f9fc ;
+    width: 380px;
+    height: 460px;
+    margin-left: 7cm;
+    background-color: #f6f9fc
+    
+  }
+  .block2{
+    border: 1px solid black;
+    width: 350px;
+    height: 460px;
+    margin-left: 17cm;
+    margin-top: -12.2cm;
+    text-align:right;
+    background-color: #573091
+
+  }
+
+    hr{
+        width: 100px;
+        height: 1px;
+    }
+    .register{
+      border-radius:20px ;
+      width: 100px;
+    }
+    span{
+      font-size: 10px;
+    }
+    
